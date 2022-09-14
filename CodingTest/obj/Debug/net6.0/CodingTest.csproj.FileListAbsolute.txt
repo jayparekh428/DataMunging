@@ -1,0 +1,51 @@
+E:\Jagdish\RnD\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.exe
+E:\Jagdish\RnD\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.deps.json
+E:\Jagdish\RnD\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.runtimeconfig.json
+E:\Jagdish\RnD\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.dll
+E:\Jagdish\RnD\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.pdb
+E:\Jagdish\RnD\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.csproj.AssemblyReference.cache
+E:\Jagdish\RnD\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Jagdish\RnD\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.AssemblyInfoInputs.cache
+E:\Jagdish\RnD\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.AssemblyInfo.cs
+E:\Jagdish\RnD\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.csproj.CoreCompileInputs.cache
+E:\Jagdish\RnD\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.dll
+E:\Jagdish\RnD\CodingTest\CodingTest\obj\Debug\net6.0\refint\CodingTest.dll
+E:\Jagdish\RnD\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.pdb
+E:\Jagdish\RnD\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.genruntimeconfig.cache
+E:\Jagdish\RnD\CodingTest\CodingTest\obj\Debug\net6.0\ref\CodingTest.dll
+E:\Jagdish\RnD\CodingTest\CodingTest\bin\Debug\net6.0\Data\football.dat
+E:\Jagdish\RnD\CodingTest\CodingTest\bin\Debug\net6.0\Data\weather.dat
+C:\Users\Jagdish Arya\Desktop\CodingTest\bin\Debug\net6.0\CodingTest.exe
+C:\Users\Jagdish Arya\Desktop\CodingTest\bin\Debug\net6.0\Data\football.dat
+C:\Users\Jagdish Arya\Desktop\CodingTest\bin\Debug\net6.0\Data\weather.dat
+C:\Users\Jagdish Arya\Desktop\CodingTest\bin\Debug\net6.0\CodingTest.deps.json
+C:\Users\Jagdish Arya\Desktop\CodingTest\bin\Debug\net6.0\CodingTest.runtimeconfig.json
+C:\Users\Jagdish Arya\Desktop\CodingTest\bin\Debug\net6.0\CodingTest.dll
+C:\Users\Jagdish Arya\Desktop\CodingTest\bin\Debug\net6.0\CodingTest.pdb
+C:\Users\Jagdish Arya\Desktop\CodingTest\obj\Debug\net6.0\CodingTest.csproj.AssemblyReference.cache
+C:\Users\Jagdish Arya\Desktop\CodingTest\obj\Debug\net6.0\CodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagdish Arya\Desktop\CodingTest\obj\Debug\net6.0\CodingTest.AssemblyInfoInputs.cache
+C:\Users\Jagdish Arya\Desktop\CodingTest\obj\Debug\net6.0\CodingTest.AssemblyInfo.cs
+C:\Users\Jagdish Arya\Desktop\CodingTest\obj\Debug\net6.0\CodingTest.csproj.CoreCompileInputs.cache
+C:\Users\Jagdish Arya\Desktop\CodingTest\obj\Debug\net6.0\CodingTest.dll
+C:\Users\Jagdish Arya\Desktop\CodingTest\obj\Debug\net6.0\refint\CodingTest.dll
+C:\Users\Jagdish Arya\Desktop\CodingTest\obj\Debug\net6.0\CodingTest.pdb
+C:\Users\Jagdish Arya\Desktop\CodingTest\obj\Debug\net6.0\CodingTest.genruntimeconfig.cache
+C:\Users\Jagdish Arya\Desktop\CodingTest\obj\Debug\net6.0\ref\CodingTest.dll
+C:\Projects\CodingTest\bin\Debug\net6.0\CodingTest.exe
+C:\Projects\CodingTest\bin\Debug\net6.0\Data\football.dat
+C:\Projects\CodingTest\bin\Debug\net6.0\Data\weather.dat
+C:\Projects\CodingTest\bin\Debug\net6.0\CodingTest.deps.json
+C:\Projects\CodingTest\bin\Debug\net6.0\CodingTest.runtimeconfig.json
+C:\Projects\CodingTest\bin\Debug\net6.0\CodingTest.dll
+C:\Projects\CodingTest\bin\Debug\net6.0\CodingTest.pdb
+C:\Projects\CodingTest\obj\Debug\net6.0\CodingTest.csproj.AssemblyReference.cache
+C:\Projects\CodingTest\obj\Debug\net6.0\CodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CodingTest\obj\Debug\net6.0\CodingTest.AssemblyInfoInputs.cache
+C:\Projects\CodingTest\obj\Debug\net6.0\CodingTest.AssemblyInfo.cs
+C:\Projects\CodingTest\obj\Debug\net6.0\CodingTest.csproj.CoreCompileInputs.cache
+C:\Projects\CodingTest\obj\Debug\net6.0\CodingTest.dll
+C:\Projects\CodingTest\obj\Debug\net6.0\refint\CodingTest.dll
+C:\Projects\CodingTest\obj\Debug\net6.0\CodingTest.pdb
+C:\Projects\CodingTest\obj\Debug\net6.0\CodingTest.genruntimeconfig.cache
+C:\Projects\CodingTest\obj\Debug\net6.0\ref\CodingTest.dll
